@@ -19,6 +19,7 @@ Be careful not to trip any mines!
 Numbers on tiles refer to how many mines are in the adjacent tiles
 Logically deduce where mines are!
 
+<img src="https://user-images.githubusercontent.com/96705270/183567921-6b8a94b5-e4d2-485b-8ca8-c5ef9da91a0d.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/183567926-4161af2a-c6cf-4328-a1f4-facd0adfc0f3.png" width="400" />
 
 
 
